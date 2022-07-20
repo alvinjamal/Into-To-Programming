@@ -53,4 +53,4 @@ const movies = [
     {title: 'underwater', category: 'action'}
 ]
 console.log ('Tugas3')
-    console.log (blue)
+console.log (blue)
